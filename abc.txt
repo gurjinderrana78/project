@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 sddfsd
+=======
+<<<<<<< HEAD
+sdbdfbdfb
+=======
+sddfsd
+>>>>>>> 5fc0147... dfef
+>>>>>>> sdfsfg
